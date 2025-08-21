@@ -3,6 +3,6 @@ It is a CLI-based game, that allow users to use the command line to interact wit
 
 #
 
-[]This is one of the project found in [Roadmap.sh](https://roadmap.sh/)
+This is one of the project found in [Roadmap.sh](https://roadmap.sh/)
 
 if you want the URl https://roadmap.sh/projects/number-guessing-game
